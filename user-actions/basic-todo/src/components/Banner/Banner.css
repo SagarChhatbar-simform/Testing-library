@@ -1,6 +1,6 @@
 .banner {
     height: 35vh;
-    background-image:  linear-gradient(to right, rgba(54, 214, 62, 0.794), rgba(53, 201, 157, 0.794), rgba(32, 155, 212, 0.794)),url("../../assets/images/galaxy.png");
+    background-image:  linear-gradient(to right, rgba(47, 56, 182, 0.794), rgba(46, 50, 107, 0.794), rgba(32, 212, 188, 0.794)),url("../../assets/images/galaxy.png");
     background-position: center;
 }
 
